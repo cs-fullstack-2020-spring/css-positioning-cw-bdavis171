@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+
+#div1 {
+    border: 1px solid pink;
+    color: blue;
+}
+
+#div2 {
+    border: 1px solid gray;
+}
+
+#div3 {
+    border: 1px solid green;
+    float: left;
+    width: 30%;
+}
+
+#div4 {
+    border: 1px solid gray;
+    width: 65%;
+    float: right;
+    height: 100px;
+    padding: 1% 0% 1% 0%;
+}
+
+#div5 {
+    border: 1px solid lightblue;
+    float: left;
+    width: 30%;
+    position: relative; top: 10px;
+}
+
+#div6 {
+    border: 1px solid purple;
+    width: 65%;
+    float: right;
+    height: 100px;
+    
+    padding: 1% 0% 1% 0%;
+}
+
+#div7 {
+    border: 1px solid red;
+    float: left;
+    width: 30%;
+    position: relative; top: 20px;
+}
